@@ -1,0 +1,30 @@
+{
+  "name": "alert",
+  "authors": [
+    "Giles Lavelle <giles.lavelle@gmail.com>"
+  ],
+  "description": "Better alert",
+  "main": "alert.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "homepage": "https://github.com/lavelle/alert",
+  "_release": "18d18263cd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "18d18263cd1cae71d3fbfae31336be8c4a80b466"
+  },
+  "_source": "git://github.com/lavelle/alert.git",
+  "_target": "*",
+  "_originalSource": "alert",
+  "_direct": true
+}

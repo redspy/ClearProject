@@ -1,0 +1,25 @@
+{
+  "name": "angular-indexedDB",
+  "homepage": "https://github.com/bramski/angular-indexedDB",
+  "authors": [
+    "webcss <webcss@capitain-reinigung.de>"
+  ],
+  "description": "An angularjs serviceprovider to utilize indexedDB with angular",
+  "main": "src/indexeddb.js",
+  "keywords": [
+    "angularjs",
+    "indexeddb",
+    "angular"
+  ],
+  "license": "MIT",
+  "_release": "4fa4fa4b0a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4fa4fa4b0a7f7d3629a8d46a209d929d47e3df40"
+  },
+  "_source": "git://github.com/webcss/angular-indexedDB.git",
+  "_target": "*",
+  "_originalSource": "angularjs-indexedDB",
+  "_direct": true
+}
